@@ -1,0 +1,73 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb, mathtools}
+\title{CS321 Introduction to Theory of Computation
+Assignment No. 1, Due: Friday January 20, 2023}
+\author{Ivan Chan \textit{933821369}}
+\date{1/17/23}
+\begin{document}
+\maketitle
+    1. Prove that $\overline{S_1 \cup S_2} = \overline{S_1} \cap \overline{S_2}$ where $S_1$ and $S_2$ are sets and $\bar{S}$ is the
+    complement of the set $S$.
+    % Answer for question 1
+    \begin{proof}
+        Let $x \in (\overline{S_1 \cup S_2})$ Thus,
+        \begin{align*}
+        & x \in \overline{S_1} \;\text{and}\; x \in \overline{S_2}\\
+        & x \notin S_1 \;\mbox{and}\; x \notin S_2\\
+        & x \in \overline{S_1} \cap \overline{S_2}\\
+        & \mbox{Therefore},\; \overline{S_1 \cup S_2} \subset \overline{S_1} \cap \overline{S_2}
+        \end{align*}
+        Let another arbitrary variable $y \in (\overline{S_1} \cap \overline{S_2})$,
+        \begin{align*}
+        & y \in (\overline{S_1} \cap \overline{S_2})\\
+        &    y \in \overline{S_1} \;\mbox{and}\; y \in \overline{S_2}\\
+        &   y \notin S_1 \;\mbox{and}\; y \notin S_2\\
+        &   y \notin (S_1 \cup S_2)\\
+        &   y \in (\overline{S_1} \cup \overline{S_2})\\
+        &   \mbox{Therefore}, \; \overline{S_1} \cap \overline{S_2} \subset (\overline{S_1 \cup S_2})\\
+        &   \mbox{Proof is also known as DeMorgan's Union Law}
+        \end{align*}
+    \end{proof}
+
+
+    2. A tree is a graph with no cycle. Show by induction that a tree with \textit{n}
+    nodes contains $n - 1$ edges.
+    \begin{proof}
+        Let $x \in \overline({S_1 \cup S_2})$ where $t=xy$ and $u=zw$. So,
+        \begin{align*}
+            Hello
+        \end{align*}
+    \end{proof}
+
+    3. A rational number is of the form m/n where m and n are integers.
+    For example, $\frac{2}{3},\frac{3}{4},\frac{2}{5},\frac{4}{7},\frac{3}{8},\frac{5}{9},\frac{11}{18},\frac{9}{25}$ are some rational
+    numbers. Show by contradiction that $\sqrt{2}$ is not a rational number
+    \begin{proof}
+        Let $x \in \overline({S_1 \cup S_2})$ where $t=xy$ and $u=zw$. So,
+        \begin{align*}
+            Hello
+        \end{align*}
+    \end{proof}
+
+    4. Let the input symbols in a finite automata be $\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$.
+    Design a DFA that accepts all integers which are divisible by $3$. (Hint:
+    An integer is divisible by 3 if the sum of the digits is divisible by 3)
+    \begin{proof}
+        Let $x \in \overline({S_1 \cup S_2})$ where $t=xy$ and $u=zw$. So,
+        \begin{align*}
+            Hello
+        \end{align*}
+    \end{proof}
+
+    5. For this problem assume that the input symbols are $\{0, 1\}$. Design a
+    DFA that accepts the binary string if it is divisible by 3.
+    \begin{proof}
+        Let $x \in \overline({S_1 \cup S_2})$ where $t=xy$ and $u=zw$. So,
+        \begin{align*}
+            Hello
+        \end{align*}
+    \end{proof}
+\end{document}
