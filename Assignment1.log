@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.17)  18 JAN 2023 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.17)  18 JAN 2023 14:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -212,17 +212,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/pewcr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (Assignment1.aux) ) 
 Here is how much of TeX's memory you used:
- 3610 strings out of 476404
- 57487 string characters out of 2789524
- 1861324 words of memory out of 3000000
- 23953 multiletter control sequences out of 15000+600000
- 520524 words of font info for 64 fonts, out of 8000000 for 9000
+ 3612 strings out of 476404
+ 57508 string characters out of 2789524
+ 1864324 words of memory out of 3000000
+ 23954 multiletter control sequences out of 15000+600000
+ 520831 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,14n,71p,274b,252s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Assignment1.pdf (2 pages, 81946 bytes).
+<C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Assignment1.pdf (2 pages, 94960 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

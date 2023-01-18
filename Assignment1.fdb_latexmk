@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1674029268 "c:/Users/pewcr/Documents/code/cs321/Assignment1.tex" "Assignment1.pdf" "Assignment1" 1674029269 0
-  "Assignment1.aux" 1674029269 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "Assignment1.tex" 1674029267 3059 0d7a25ce3a6e2cb1209f9fd68b9b7bb8 ""
+["pdflatex"] 1674081881 "c:/Users/pewcr/Documents/code/cs321/Assignment1.tex" "Assignment1.pdf" "Assignment1" 1674081882 0
+  "Assignment1.aux" 1674081882 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "Assignment1.tex" 1674081881 3692 0f97b0f198e5dba19106fba06e7e117b ""
   "C:/Users/pewcr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674025004 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/pewcr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674018447 23172981 615407f1bc71392d0653cdf00469391a ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -10,6 +10,7 @@
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -22,6 +23,7 @@
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+  "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247593067 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
@@ -54,7 +56,7 @@
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mathtools.sty" 1656511286 62269 5c1837a5bc5db4c0d255eedc225ca44b ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mhsetup.sty" 1656511286 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
   "C:/Users/pewcr/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1654687228 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
-  "c:/Users/pewcr/Documents/code/cs321/Assignment1.tex" 1674029267 3059 0d7a25ce3a6e2cb1209f9fd68b9b7bb8 ""
+  "c:/Users/pewcr/Documents/code/cs321/Assignment1.tex" 1674081881 3692 0f97b0f198e5dba19106fba06e7e117b ""
   (generated)
   "Assignment1.aux"
   "Assignment1.log"

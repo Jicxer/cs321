@@ -36,9 +36,16 @@ Assignment No. 1, Due: Friday January 20, 2023}
     2. A tree is a graph with no cycle. Show by induction that a tree with \textit{n}
     nodes contains $n - 1$ edges.
     \begin{proof}
-        Let $x \in \overline({S_1 \cup S_2})$ where $t=xy$ and $u=zw$. So,
         \begin{align*}
-            Hello
+        & \mbox{\textbf{Base case:}}\; \mbox{When n} \; = 1, \; \mbox{there are}\; (1) - 1 = 0\; \mbox{edges.}\\
+        & \mbox{The proof holds true that a tree with }n = 1 \; \mbox{nodes contain}\; n - 1 = 0 \;\mbox{edges}\\
+        & \mbox{\textbf{Induction Assumption:}}\\
+        &k \; \mbox{nodes}\; = k - 1 \; \mbox{edges for}\;  k \ge 0\\
+        & \mbox{\textbf{Induction Step:}}\\
+            &\mbox{Let}\; n = (k+1),\\
+            & \mbox{Then a tree containing}\;(k + 1)\; \mbox{nodes}\; = (k+1) - 1 = k \; \mbox{edges}\\
+            & \mbox{Thus, the}\; (k+1)\mbox{th node will contain}\; k \;\mbox{edges}\\ 
+            & \mbox{Hence, nodes containing} \; n \; \mbox{nodes contain}\; n - 1 \; \mbox{edges}\\
         \end{align*}
     \end{proof}
 
